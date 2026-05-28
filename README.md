@@ -1,24 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:3D136B,50:7B2CBF,100:C77DFF&text=Isadora%20Gomes&font=Marcellus&fontAlign=50&fontAlignY=38&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=⋆.˚✮🎧✮˚.⋆&descAlignY=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2d0057,6a0dad,1a0030,9b30ff&height=180&section=header&text=isadora%20gomes&fontSize=52&fontColor=e8d5ff&fontAlignY=38&desc=⏾☼%20python%20student%20⏾☼&descAlignY=58&descSize=18&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-𓆉 ⋆｡˚⋆❀ 🐚🫧𓇼 ˖° ⏾☼
+### ✮ *"Bobeira é não viver a realidade"* ✮
 
-### entre códigos, música e mar
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=500&size=28&duration=3500&pause=1200&color=C77DFF&center=true&vCenter=true&width=900&lines=estudando+programação+em+Python+🐍;criando+novos+começos;ouvindo+mpb+🎧;vivendo+a+realidade"/>
-
-</div>
-
----
-
-<div align="center">
-
-# ★ Bobeira é não viver a realidade ★
+⋆.˚✮🎧✮˚.⋆ &nbsp; 𓆉⋆｡˚⋆❀ &nbsp; 🐚🫧𓇼 ˖° &nbsp; ⏾☼
 
 </div>
 
@@ -26,17 +16,9 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&hide_border=true&bg_color=00000000&title_color=C77DFF&text_color=ffffff&icon_color=C77DFF"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&title_color=9b30ff&text_color=c084fc&icon_color=6a0dad&border_color=2d0057&bg_color=0d0015)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&hide_border=true&bg_color=00000000&title_color=C77DFF&text_color=ffffff"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=discord&no-frame=true&row=1&column=6"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&title_color=9b30ff&text_color=c084fc&border_color=2d0057&bg_color=0d0015)
 
 </div>
 
@@ -44,29 +26,7 @@
 
 <div align="center">
 
-### ⋆.˚✮🎧✮˚.⋆ sobre esse espaço ⋆.˚✮🎧✮˚.⋆
-
-<table>
-<tr>
-<td align="center">
-🌊<br>
-explorando<br>
-novos caminhos
-</td>
-
-<td align="center">
-🐍<br>
-aprendendo<br>
-python
-</td>
-
-<td align="center">
-🎧<br>
-mpb<br>
-no fone
-</td>
-</tr>
-</table>
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&border=2d0057&ring=9b30ff&fire=6a0dad&currStreakLabel=c084fc&sideLabels=c084fc&dates=9b30ff&currStreakNum=9b30ff&sideNums=c084fc)
 
 </div>
 
@@ -74,11 +34,12 @@ no fone
 
 <div align="center">
 
-### conexão
+## 𓆉 stack
 
-<a href="https://instagram.com/gomeszz.777">
-<img src="https://img.shields.io/badge/@gomeszz.777-7B2CBF?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+![Python](https://img.shields.io/badge/Python-6a0dad?style=for-the-badge&logo=python&logoColor=e8d5ff)
+![VS Code](https://img.shields.io/badge/VS%20Code-2d0057?style=for-the-badge&logo=visual-studio-code&logoColor=e8d5ff)
+![Git](https://img.shields.io/badge/Git-9b30ff?style=for-the-badge&logo=git&logoColor=e8d5ff)
+![GitHub](https://img.shields.io/badge/GitHub-1a0030?style=for-the-badge&logo=github&logoColor=e8d5ff)
 
 </div>
 
@@ -86,24 +47,20 @@ no fone
 
 <div align="center">
 
-```
-⏾☼
+## ⋆.˚✮🎧✮˚.⋆ redes
 
-existem pessoas que sonham,
-existem pessoas que fazem.
-
-e existem aquelas que aprendem
-enquanto vivem.
-
-★ Bobeira é não viver a realidade ★
-
-𓆉⋆｡˚⋆❀ 🐚🫧𓇼 ˖°
-```
+[![Instagram](https://img.shields.io/badge/@gomeszz.777-9b30ff?style=for-the-badge&logo=instagram&logoColor=e8d5ff)](https://instagram.com/gomeszz.777)
 
 </div>
 
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:3D136B,50:7B2CBF,100:C77DFF"/>
+🫧 *em construção* 🫧
+
+𓆉⋆｡˚⋆❀ &nbsp; ⏾☼ &nbsp; 🐚🫧𓇼 ˖° &nbsp; ⋆.˚✮🎧✮˚.⋆
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2d0057,6a0dad,1a0030,9b30ff&height=120&section=footer&animation=fadeIn" />
 
 </div>
