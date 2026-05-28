@@ -1,66 +1,65 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1a0030,50:4a0080,100:7B2FBE&text=ISADORA%20GOMES&fontAlign=50&fontAlignY=38&fontColor=e8d5ff&animation=fadeIn&desc=⋆.˚✮🎧✮˚.⋆&descAlignY=60&descSize=22&font=Playfair+Display"/>
+</div>
+<div align="center">
+𓆉 ⋆ ❀ 🐚🫧𓇼 ⏾☼
+  
+⋆ Entre códigos, e muita música ⋆
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2d0057,6a0dad,1a0030,9b30ff&height=180&section=header&text=isadora%20gomes&fontSize=52&fontColor=e8d5ff&fontAlignY=38&desc=⏾☼%20python%20student%20⏾☼&descAlignY=58&descSize=18&animation=fadeIn" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=500&size=28&duration=3500&pause=1200&color=bf7fff&center=true&vCenter=true&width=900&lines=estudando+programação+em+Python+🐍;criando+novos+começos;ouvindo+mpb+🎧;vivendo+a+realidade"/>
 </div>
 
 <div align="center">
+  
+𖦹ׂ Sobre esse espaço 𖦹ׂ
 
-### ✮ *"Bobeira é não viver a realidade"* ✮
 
-⋆.˚✮🎧✮˚.⋆ &nbsp; 𓆉⋆｡˚⋆❀ &nbsp; 🐚🫧𓇼 ˖° &nbsp; ⏾☼
-
+  
+<table>
+<tr>
+<td align="center">
+🌊<br/>
+explorando<br/>
+novos caminhos
+</td>
+<td align="center">
+🐍<br/>
+Aprendendo<br/>
+Python
+</td>
+<td align="center">
+🎧<br/>
+MPB<br/>
+in the headphone
+</td>
+</tr>
+</table>
 </div>
 
----
+<div align="center"
+  
+Me encontre aqui
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&title_color=9b30ff&text_color=c084fc&icon_color=6a0dad&border_color=2d0057&bg_color=0d0015)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&title_color=9b30ff&text_color=c084fc&border_color=2d0057&bg_color=0d0015)
-
+<a href="https://instagram.com/gomeszz.777">
+<img src="https://img.shields.io/badge/@gomeszz.777-4a0080?style=for-the-badge&logo=instagram&logoColor=e8d5ff"/>
+</a>
 </div>
 
----
-
 <div align="center">
+  
+⏾☼
+existem pessoas que sonham,
+existem pessoas que fazem.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&border=2d0057&ring=9b30ff&fire=6a0dad&currStreakLabel=c084fc&sideLabels=c084fc&dates=9b30ff&currStreakNum=9b30ff&sideNums=c084fc)
+e existem aquelas que aprendem
+enquanto vivem.
+  
+★ Bobeira é não viver a realidade ★
 
+𓆉 ⋆ ❀ 🐚🫧𓇼 ⏾☼
+  
 </div>
 
----
-
 <div align="center">
-
-## 𓆉 stack
-
-![Python](https://img.shields.io/badge/Python-6a0dad?style=for-the-badge&logo=python&logoColor=e8d5ff)
-![VS Code](https://img.shields.io/badge/VS%20Code-2d0057?style=for-the-badge&logo=visual-studio-code&logoColor=e8d5ff)
-![Git](https://img.shields.io/badge/Git-9b30ff?style=for-the-badge&logo=git&logoColor=e8d5ff)
-![GitHub](https://img.shields.io/badge/GitHub-1a0030?style=for-the-badge&logo=github&logoColor=e8d5ff)
-
-</div>
-
----
-
-<div align="center">
-
-## ⋆.˚✮🎧✮˚.⋆ redes
-
-[![Instagram](https://img.shields.io/badge/@gomeszz.777-9b30ff?style=for-the-badge&logo=instagram&logoColor=e8d5ff)](https://instagram.com/gomeszz.777)
-
-</div>
-
----
-
-<div align="center">
-
-🫧 *em construção* 🫧
-
-𓆉⋆｡˚⋆❀ &nbsp; ⏾☼ &nbsp; 🐚🫧𓇼 ˖° &nbsp; ⋆.˚✮🎧✮˚.⋆
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2d0057,6a0dad,1a0030,9b30ff&height=120&section=footer&animation=fadeIn" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:1a0030,50:4a0080,100:7B2FBE"/>
 </div>
