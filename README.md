@@ -50,10 +50,8 @@ Me encontre aqui
 ⏾☼
 existem pessoas que sonham,
 existem pessoas que fazem.
-
 e existem aquelas que aprendem
 enquanto vivem.
-  
 ★ Bobeira é não viver a realidade ★
 
 𓆉 ⋆ ❀ 🐚🫧𓇼 ⏾☼
